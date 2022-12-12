@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563578078933",
+    "firebase_url": "https://herbalplantjava-default-rtdb.firebaseio.com",
+    "project_id": "herbalplantjava",
+    "storage_bucket": "herbalplantjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563578078933:android:fa935d52f27ce00eaa045c",
+        "android_client_info": {
+          "package_name": "com.jhp.javaherbalplants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563578078933-ttoqjddm7vv4cco3usvkql8ce4j8cmd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhp.javaherbalplants",
+            "certificate_hash": "d6932d0151627c477dd8a6fd4d99788096f632cf"
+          }
+        },
+        {
+          "client_id": "563578078933-k168erure82sclmbsjec066f5vf4bt3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl8IouE6EYXZOamtd0EV7kd5KkPWKAeEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563578078933-k168erure82sclmbsjec066f5vf4bt3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
